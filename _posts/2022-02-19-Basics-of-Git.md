@@ -9,7 +9,7 @@ tags: [GIT]
 icon: icon-git
 ---
 
-![git]({{ "asses/b-imgs/git.png" | relative_url }})
+![git]({{ "assets/b-imgs/git.png" | relative_url }})
 
 ---
 
